@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Project I have done:
+cd Project I have done:
 BC wild watch: https://github.com/Sikhwendigo/bc-wildwatch-v2.git
 
 CV:
