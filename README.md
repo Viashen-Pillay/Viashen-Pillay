@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+cp -r https://github.com/Sikhwendigo/bc-wildwatch-v2.git
 
 CV:
 https://github.com/Viashen-Pillay/CV.git
