@@ -24,7 +24,7 @@ View my professional experience and skills.
 
 ## 📫 Connect With Me
 - GitHub: [@Viashen-Pillay](https://github.com/Viashen-Pillay)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/viashen-pillay-413835224/
 - Email: viashengp@gmail.com
 
 ---
