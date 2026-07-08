@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Viashen Pillay
 
 ## 🚀 About Me
-Passionate developer creating awesome projects! Welcome to my GitHub profile.
+Passionate developer who wants to learn as much as I can. I am interested in AI, Web development and App Development.
 
 ---
 
@@ -10,7 +10,12 @@ Passionate developer creating awesome projects! Welcome to my GitHub profile.
 ### 🌿 BC Wild Watch
 A wildlife monitoring and tracking application.
 - **Repository**:  bc-wildwatch-v2 (https://github.com/Sikhwendigo/bc-wildwatch-v2.git)
-- **Technologies**: [Add tech stack here]
+
+
+  ### 🌿 BC Wild Watch
+A wildlife monitoring and tracking application.
+- **Repository**:  SuperHero DataBase (https://github.com/Sikhwendigo/PRG282.git)
+
 
 ### 📄 My CV
 View my professional experience and skills.
