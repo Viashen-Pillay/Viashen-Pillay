@@ -27,8 +27,7 @@ View my professional experience and skills.
 ---
 
 ## 🛠️ Tech Stack
-- [Add your technologies]
-- Example: Python, JavaScript, React, etc.
+-  Java, Javascript, HTML, CSS, SQL, MySQL, MongoDB, C#.
 
 ## 📫 Connect With Me
 - GitHub: [@Viashen-Pillay](https://github.com/Viashen-Pillay)
